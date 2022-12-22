@@ -8,10 +8,10 @@ Analizar y determinar experimentalmente el Teorema de Superposición para calcul
 
 ## Objetivos especificos
 
-Identificar conceptos fundamentales para llevar a cabo el teorema de superposición con eficacia.
+* Identificar conceptos fundamentales para llevar a cabo el teorema de superposición con eficacia.
 
-Demostrar como el teorema de superposición es importante al momento de la resolucion de circuitos con más de una fuente de voltaje.
+* Demostrar como el teorema de superposición es importante al momento de la resolucion de circuitos con más de una fuente de voltaje.
 
-Resolver el problema propuesto, y evaluar los valores resultantes en la tabla.
+* Resolver el problema propuesto, y evaluar los valores resultantes en la tabla.
 
-Utilizar correctamente el sentido del cálculo una vez eliminado la fuente de voltaje
+* Utilizar correctamente el sentido del cálculo una vez eliminado la fuente de voltaje
