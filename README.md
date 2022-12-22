@@ -22,6 +22,11 @@ Analizar y determinar experimentalmente el Teorema de Superposición para calcul
 
 * Utilizar correctamente el sentido del cálculo una vez eliminado la fuente de voltaje
 
+# 2. MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/116775893/209244198-dad85f85-da50-4495-90a4-51d58ea4e33e.png)
+![image](https://user-images.githubusercontent.com/116775893/209244343-ca5a4100-3450-452e-9dbd-92325792631a.png)
+
 
 
 
