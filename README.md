@@ -54,3 +54,8 @@ Analizar y determinar experimentalmente el Teorema de Superposición para calcul
 El teorema de superposición nos ayuda a simplificar un circuito complejo serie – paralelo a uno mas simple para el cálculo del mismo teniendo en cuenta para que fuente de voltaje se está realizando el cálculo, es decir, se elimina una fuente de voltaje o corriente donde este se cortocircuitara o se abrirá, eliminando así una fuente y calculando solo con la disponible, después se realiza el mismo procedimiento pero para la otra fuente y así mismo eliminando la otra fuente de corriente o voltaje.
 
 Como sabemos el teorema de superposición es una forma mas sencilla para calcular voltajes y corrientes que pasa por un cierto resistor.
+# 6. BIBLIOGRAFIA
+•	Hernández, M. (19 de abril de 2019). Análisis de circuitos y sistemas lineales. Obtenido de Teorema de superposición: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+•	Willy, M. (28 de junio de 2017). Academia Khan. Obtenido de Superposición: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
