@@ -38,17 +38,20 @@ Analizar y determinar experimentalmente el Teorema de Superposición para calcul
 
 # Simulacion en tinkercat
 
-![image](https://user-images.githubusercontent.com/116761073/209250170-cd477305-cde9-4eaf-96b4-4fe4076bfb5e.png)
+![image](https://user-images.githubusercontent.com/116761073/209253894-f6646b8a-0567-4d96-ba46-e21d8587fe1b.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209250212-3c5e6e2a-b471-4a94-9cde-39c8a9e40fe6.png)
+![image](https://user-images.githubusercontent.com/116761073/209253662-b39fcb42-c028-4638-970d-cdddb1a7bc62.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209250243-4fcb74f7-7862-47a4-b181-9256dfee03b2.png)
+![image](https://user-images.githubusercontent.com/116761073/209254254-bdbfc2ac-6d3e-4432-a1b4-2e8f489328a7.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209250264-9982aeb9-9ec5-44d0-83a6-2a731f780e40.png)
+![image](https://user-images.githubusercontent.com/116761073/209254496-6f161d81-e279-4852-af15-0ab6788cf85a.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209250287-7df595b7-15a6-4b40-86cc-7846fd2e9c4c.png)
+![image](https://user-images.githubusercontent.com/116761073/209254659-b946c3fb-e6d5-4c1a-836a-b700498b3806.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209250309-f23e7a32-618c-46fc-90d6-898996d9f164.png)
+![image](https://user-images.githubusercontent.com/116761073/209254879-0fe91b76-302f-483d-a922-7c5135cc68ca.png)
+
+
+
 
 # 5. CONCLUSIONES
 El teorema de superposición nos ayuda a simplificar un circuito complejo serie – paralelo a uno mas simple para el cálculo del mismo teniendo en cuenta para que fuente de voltaje se está realizando el cálculo, es decir, se elimina una fuente de voltaje o corriente donde este se cortocircuitara o se abrirá, eliminando así una fuente y calculando solo con la disponible, después se realiza el mismo procedimiento pero para la otra fuente y así mismo eliminando la otra fuente de corriente o voltaje.
