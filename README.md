@@ -30,9 +30,9 @@ Analizar y determinar experimentalmente el Teorema de Superposición para calcul
 
 # 3.RESOLUCIÓN DE EJERCICIOS
 
-![image](https://user-images.githubusercontent.com/116761073/209249640-8539511b-0ee4-47ab-ab88-4cd761e27ef7.png)
+![image](https://user-images.githubusercontent.com/116761073/209261327-e47b5a54-b402-441c-8579-b7c0b914f968.png)
 
-![image](https://user-images.githubusercontent.com/116761073/209249705-2bc81623-ded1-4c7c-b31b-6ca31b027782.png)
+![image](https://user-images.githubusercontent.com/116761073/209261451-ad57e863-a206-4d2a-ba17-a3d732f7ce5b.png)
 
 ![image](https://user-images.githubusercontent.com/116761073/209249746-e027a88c-9a70-47b8-9cb2-ab83495c3bad.png)
 
