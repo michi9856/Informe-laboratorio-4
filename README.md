@@ -9,6 +9,8 @@ Michael Toroche
 
 Jhon Quingatuña
 
+Anthony Cevallos
+
 # 1. OBJETIVOS
 
 Analizar y determinar experimentalmente el Teorema de Superposición para calcular las corriente y voltajes que pasa por el circuito..
